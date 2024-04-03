@@ -1,0 +1,13 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@font-face {
+  font-family: webFont;
+  src: url(./fonts/Poppins-Regular.ttf);
+}
+
+body {
+  background-color: rgb(167, 220, 250);
+  font-family: webFont;
+}
